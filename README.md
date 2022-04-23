@@ -40,9 +40,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
+![](https://imgur.com/a/u7Pq02f)
+![](https://imgur.com/a/vBbQbiX)
+![](https://imgur.com/a/Bq84s0a)
 ![](gif4-link-here)
 
 ## Reflection Questions
@@ -51,21 +51,24 @@ https://smallbusiness.chron.com/add-image-css-file-51301.html
 [YOUR ANSWER HERE]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
- 
+ A challenge I had was creating a gif because I kept trying to use the apps that were given but they would not work, for instance the video was running super slow on one gifmaker and on the other gifmaker the resolution was far too low for me to make my code work properly
 [YOUR ANSWER HERE]
+A surprising challenge I had was creating a gif this was surprising because I thought personally the hardest part would be the code. Creating the gifs was hard because I kept trying to use the apps that were given but they would not work, for instance, the video was running super slow on one gif maker, and on the other gif maker the resolution was far too low for me to make my code work properly. I recognized that these gif makers were not working for me so I instead searched up methods on how to convert videos into gifs online. There were a couple youtube videos online detailing how to properly make vids, several of them detailed solutions to my problems, such as giving me a new place to create gifs. This place to create gifs was called ezgif and ezgif really helped me create a gif that was not slow nor was the resolution really bad this meant that I could use this gif in my submission. I also had a problem finding a way to use get a link for my gif so what I did is I posted it on a gif page and I linked that to the website. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
+Because of this project I have started to become interested in how to use javascript to make useful functions that tie in HTML and CSS. A general question I have is can we use other programming languages like java, C++, python in web development. Since I first saw the button on the screen I was interested in if we could make buttons look more interesting such as making the button 3d due to me taking linear algebra this semester I understand that their would have to be some linear algebra involved in doing this. Would this be possible using the coding languages we have at our disposal right now or would we have to bring in some new ones.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
+I would work on making a timer for the project because the game is a lot easier when you do not have to worry about the timing and the game would become a lot more challenging and a lot more interesting if we were to put a timer in the game. I would also try and make the buttons have an interesting sound. This sound would probably be Nietzsche quotes to stick to my Nietzsche theme I have going on.
 
 
 
 ## Interview Recording URL Link
 
 [My 5-minute Interview Recording](your-link-here)
-
+https://www.loom.com/share/7000f65ff3184a8ca792679a7d1d0ce5
 
 ## License
 
