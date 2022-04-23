@@ -2,7 +2,7 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by:Abdirahman Ali **NAME**
+Submitted by:Abdirahman Ali 
 
 Time spent: 7 hours spent in total
 
@@ -34,15 +34,15 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
-- [ ] I added 2 buttons to show the extra lives the player has and as they make a mistake the buttons disappear. The buttons are named Life1 and Life 2
+- [*] List anything else that you can get done to improve the app!
+  I added 2 buttons at the top of the page to show the extra lives the player has and as they make a mistake the buttons disappear. The buttons are named Life1 and Life 2
 
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://imgur.com/a/u7Pq02f)
-![](https://imgur.com/a/vBbQbiX)
-![](https://imgur.com/a/Bq84s0a)
+![*](https://imgur.com/a/u7Pq02f)
+![*](https://imgur.com/a/vBbQbiX)
+![*](https://imgur.com/a/Bq84s0a)
 ![](gif4-link-here)
 
 ## Reflection Questions
@@ -52,27 +52,27 @@ https://smallbusiness.chron.com/add-image-css-file-51301.html
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
  A challenge I had was creating a gif because I kept trying to use the apps that were given but they would not work, for instance the video was running super slow on one gifmaker and on the other gifmaker the resolution was far too low for me to make my code work properly
-[YOUR ANSWER HERE]
-A surprising challenge I had was creating a gif this was surprising because I thought personally the hardest part would be the code. Creating the gifs was hard because I kept trying to use the apps that were given but they would not work, for instance, the video was running super slow on one gif maker, and on the other gif maker the resolution was far too low for me to make my code work properly. I recognized that these gif makers were not working for me so I instead searched up methods on how to convert videos into gifs online. There were a couple youtube videos online detailing how to properly make vids, several of them detailed solutions to my problems, such as giving me a new place to create gifs. This place to create gifs was called ezgif and ezgif really helped me create a gif that was not slow nor was the resolution really bad this meant that I could use this gif in my submission. I also had a problem finding a way to use get a link for my gif so what I did is I posted it on a gif page and I linked that to the website. 
+
+A surprising challenge I had was creating a gif. This was surprising because I thought personally the hardest part would be the code. Creating the gifs was hard because I kept trying to use the apps that were given but they would not work, for instance, the video was running super slow on one gif maker, and on the other gif maker the resolution was far too low for me to make my code work properly. I recognized that these gif makers were not working for me so I instead searched up methods on how to convert videos into gifs online. There were a couple youtube videos online detailing how to properly make gifs, several of them detailed solutions to my problems, such as giving me a new place to create gifs. This place to create gifs was called ezgif and ezgif really helped me create a gif that was not slow nor was the resolution really bad this meant that I could use this gif in my submission. I also had a problem finding a way to use get a link for my gif so what I did is I posted it on a gif page and I linked that to the website. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-Because of this project I have started to become interested in how to use javascript to make useful functions that tie in HTML and CSS. A general question I have is can we use other programming languages like java, C++, python in web development. Since I first saw the button on the screen I was interested in if we could make buttons look more interesting such as making the button 3d due to me taking linear algebra this semester I understand that their would have to be some linear algebra involved in doing this. Would this be possible using the coding languages we have at our disposal right now or would we have to bring in some new ones.
+
+Because of this project I have started to become interested in how to use javascript to make useful functions that tie in HTML and CSS. A general question I have is can we use other programming languages like java, C++, python in web development? Since I first saw the button on the screen I was interested in if we could make buttons look more interesting such as making the button 3d, due to me taking linear algebra this semester I understand that their would have to be some linear algebra involved in doing this. Would this be possible using the coding languages we have at our disposal right now or would we have to bring in some new ones? A more general question I have about web development is how web developers are keeping up with the newest online templates for websites. While web developers arenecessary as the industry grows they would have to stay on the cutting edge in order for their jobs not to become a feature on a website like squarespace. My question would be how do web developers stay ahead of the curve and always stay on the cutting edge of web development?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-I would work on making a timer for the project because the game is a lot easier when you do not have to worry about the timing and the game would become a lot more challenging and a lot more interesting if we were to put a timer in the game. I would also try and make the buttons have an interesting sound. This sound would probably be Nietzsche quotes to stick to my Nietzsche theme I have going on.
+
+I would work on making a timer for the project because the game is a lot easier when you do not have to worry about the timing and the game would become a lot more challenging and a lot more interesting if we were to put a timer in the game. I would also try and make the buttons have an interesting sound. When I am done with the optional features I would try and brainstorm more ideas on how I can make my game more user friendly. I would like to make more creative features that fit into the players user experience well, such as how I implemented the buttons that would disappear when the player made a mistake warning them that their lives are going down.
 
 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
-https://www.loom.com/share/7000f65ff3184a8ca792679a7d1d0ce5
+[My 5-minute Interview Recording](https://www.loom.com/share/7000f65ff3184a8ca792679a7d1d0ce5)
+
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Abdirahman Ali
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
