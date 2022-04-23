@@ -6,7 +6,7 @@ Submitted by:Abdirahman Ali
 
 Time spent: 7 hours spent in total
 
-Link to project: https://glitch.com/edit/#!/island-charming-drop?path=script.js%3A35%3A3 (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/island-charming-drop?path=script.js%3A35%3A3 
 
 ## Required Functionality
 
